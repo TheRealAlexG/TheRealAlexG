@@ -17,3 +17,5 @@ I’m a Full Stack Developer skilled in C#, Java, Kotlin, React, HTML, CSS, Tail
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheRealAlexG&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
